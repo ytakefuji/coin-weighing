@@ -10,8 +10,9 @@ H: '<<=', '<=>', '<><', '=>=', '>==', '>=>', '><=', '=>>', '<<<', '>><', '==<', 
 </pre>
 Access to the following web service:
 https://nrich.maths.org/5796
-Play with the web page. The first experiment is to use 4 coins (6, 5, 10, 7) on the left side and 4 coins (9, 2, 3, 1).
+
+Play with the web page. The first experiment is to use 4 coins (6, 5, 10, 7) on the left side and 4 coins (9, 2, 3, 1) on the right side.
 The result shows three states: <, =, or > where < indicates that the right side is heavier, = for balanced, > the left side is heavier.
 In the second experiment, use 4 coins (10, 4, 3, 8) on the left and 4 coins (12, 7, 9, 1).
 In the third experiment, use 4 coins (12, 2, 6, 8) and 4 coins (11, 10, 3, 9).
-If the result of three experiments,'>=<' shows that coin#2 is lighter.
+If the result of three experiments is '>=<', then it shows that coin#2 is lighter.

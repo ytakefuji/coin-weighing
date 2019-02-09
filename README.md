@@ -5,7 +5,7 @@ In orde to run the program, type the following:
 <pre>
 $ python 12balls-v2.py
 </pre>
-One of solutions in 1000 trials is:
+One of 5 solutions in 1000 trials is generated:
 <pre>
 [6, 5, 10, 7, 9, 2, 3, 1] [10, 4, 3, 8, 12, 7, 9, 1] [12, 2, 6, 8, 11, 10, 3, 9]
 　   1      2      3      4      5      6      7      8      9      10     11     12    

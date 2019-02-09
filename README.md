@@ -1,6 +1,7 @@
 # coin-weighing
 Coin weighing puzzles are difficult for human. They are easily solved by an AI-based system. The goal of this repository is to show the latest approach with AI embedded. 12balls-v2.py is a simple program with 50 lines. The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. In orde to run, type
 $ python 12balls-v2.py
+
 One of solutions in 1000 trials is:
 <pre>
 [6, 5, 10, 7, 9, 2, 3, 1] [10, 4, 3, 8, 12, 7, 9, 1] [12, 2, 6, 8, 11, 10, 3, 9]

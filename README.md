@@ -7,7 +7,7 @@ Human intelligence can be replaced by the proposed system.
 
 In orde to run the program, type the following:
 <pre>
-$ python 12balls-v2.py
+$ python 12balls-v3.py
 </pre>
 One of 5 solutions in 1000 trials is generated:
 <pre>

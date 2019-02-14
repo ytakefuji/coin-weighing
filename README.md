@@ -1,13 +1,13 @@
 # coin-weighing
 Coin weighing puzzles are intractable for human. They are easily solved by an AI-based system. 
 The goal of this repository is to demonstrate the latest approach with AI inference embedded without human intelligence. 
-12balls-v3.py is a simple program with 35 lines. 
+12coins.py is a simple program with 37 lines. 
 The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. 
 Human intelligence can be replaced by the proposed system.
 
 In orde to run the program, type the following:
 <pre>
-$ python 12balls-v3.py
+$ python 12coins.py
 </pre>
 One of 5 solutions in 1000 trials is generated:
 <pre>

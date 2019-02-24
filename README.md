@@ -3,7 +3,7 @@ Coin weighing puzzles are intractable for human. They are easily solved by an AI
 The goal of this repository is to demonstrate the latest approach with AI inference embedded without human intelligence. 
 12coins.py is a simple program with 37 lines. 
 The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. 
-Human intelligence can be replaced by the proposed system.
+Human intelligence can be replaced by the proposed AI system.
 
 In orde to run the program, type the following:
 <pre>

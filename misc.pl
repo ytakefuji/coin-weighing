@@ -1,3 +1,5 @@
+% The original program is at:https://binding-time.co.uk/index.php/The_Counterfeit_Coin_Puzzle
+% The program was modified by takefuji: length-> lengthh
 % Puzzle Utilities
 % ================
 % 

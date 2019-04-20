@@ -1,3 +1,5 @@
+% The original program is at:https://binding-time.co.uk/index.php/The_Counterfeit_Coin_Puzzle
+% It was modified by Takefuji: length->lengthh
 % The Counterfeit Coin Puzzle
 % ===========================
 % 
@@ -32,7 +34,7 @@
 % 
 % We use a generate-and-test method as follows:
 % 
-% -   Create the set of all possible counterfeits: 12 coins × 2 weights ;
+% -   Create the set of all possible counterfeits: 12 coins Ã— 2 weights ;
 % -   Devise a procedure that can identify the first counterfeit coin;
 % -   Show that the same procedure works for every other counterfeit coin.
 % 
@@ -158,8 +160,8 @@ end_result( [], [Coin], Coin, light ).
 % result of the weighing.
 % 
 % This predicate applies the critical insight into the solution of this
-% puzzle: we have 24 (12 × 2) possible inputs to the procedure, with only
-% 27 (3 × 3 × 3) possible outcomes from the weighings.
+% puzzle: we have 24 (12 Ã— 2) possible inputs to the procedure, with only
+% 27 (3 Ã— 3 Ã— 3) possible outcomes from the weighings.
 % 
 % Therefore, it is clear that each weighing must have a very high
 % information content. Choosing which weighing to make by estimating the
@@ -485,7 +487,7 @@ information_content1( [Count|Counts], Content0, Content ):-
 % 
 % holds when Entropy estimates the entropy of a sample of N coins.
 % 
-% Entropy = P log2(^1/P), where P = N÷12.
+% Entropy = P log2(^1/P), where P = NÃ·12.
 
 coins_entropy(  0, 0.0 ).
 coins_entropy(  1, 0.2987 ).

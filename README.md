@@ -2,6 +2,7 @@
 Coin weighing puzzles are intractable for human. They are easily solved by an AI-based system. 
 The goal of this repository is to demonstrate the latest approach with AI inference embedded without human intelligence. 
 12coins.py is a simple program with 37 lines. 
+The Prolog program (deductive method) and other algorithms are introduced for comparing the performance. prolog.pl and misc.pl are Prolog program.
 The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. 
 Human intelligence can be replaced by the proposed AI system.
 

@@ -1,6 +1,7 @@
 # coin-weighing
 Coin weighing puzzles are intractable for human. 
 According to Wikipedia, a balance puzzle or weighing puzzle is a logic puzzle about balancing items—often coins or balls—to determine which holds a different value, by using a balance scale a limited number of times. In 12-coin-3-weighing puzzle, twelve coins are given where eleven of which are identical. If one is different, we don't know whether it is heavier or lighter than the others. The balance may be used three times to determine if there is a unique (counterfeit or fake) coin to isolate it and determine its weight relative to the others. Therefore, in 12-coin-3-weighing puzzle, we have to isolate a single counterfeit coin by three weighings using the balance.
+
 They are easily solved by an AI-based system. 
 The goal of this repository is to demonstrate the latest approach with AI inference embedded without human intelligence. 
 The Prolog program (deductive method) and other algorithms are also introduced for comparing the performance. prolog.pl and misc.pl are Prolog program.

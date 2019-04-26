@@ -4,7 +4,7 @@ According to Wikipedia, a balance puzzle or weighing puzzle is a logic puzzle ab
 
 They are easily solved by an AI-based system. 
 The goal of this repository is to demonstrate the latest approach with AI inference embedded without human intelligence. 
-The Prolog program and Z3 programs are based on deductive method. prolog.pl and misc.pl are Prolog program. 12coins_z3.py 24coins_z3.py are based on Z3 library.
+The Prolog program and Z3 programs are based on deductive method. prolog.pl and misc.pl are Prolog program. 12coins_z3.py and 24coins_z3.py are based on Z3 library.
 
 To run prolog.pl, execute the following command:
 <pre>

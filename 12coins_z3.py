@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-
 from z3 import *
 
 def weigh(c_p,l,s,val):

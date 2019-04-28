@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# this program is developed by Ren Yamada.
 from z3 import *
 
 def weigh(c_p,l,s,val):

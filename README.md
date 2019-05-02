@@ -15,6 +15,13 @@ To run 12coins_z3.py,
 $ python 12coins_z3.py
 </pre>
 
+To run odd.pl:
+<pre>
+$ odd.pl 12 3
+or
+$ odd.pl 24 4
+</pre>
+
 12coins.py is a simple program with 37 lines. 
 The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. 
 Human intelligence can be replaced by the proposed AI system.

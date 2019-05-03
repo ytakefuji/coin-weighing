@@ -15,7 +15,7 @@ To run 12coins_z3.py,
 $ python 12coins_z3.py
 </pre>
 
-To run odd.pl:
+To run Perl program odd.pl:
 <pre>
 $ odd.pl 12 3
 or

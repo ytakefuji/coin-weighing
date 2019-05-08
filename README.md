@@ -22,7 +22,7 @@ or
 $ odd.pl 24 4
 </pre>
 
-12coins.py is a simple program with 37 lines. 
+12coins.py is a simple program with 39 lines. 
 The program is composed of three parts: generating states, generating experiments using pseudorandom number, and verifying the satisfactory conditions. 
 Human intelligence can be replaced by the proposed AI system.
 

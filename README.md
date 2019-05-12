@@ -76,4 +76,5 @@ L:['=<>>', '>>=<', '<=>=', '><>=', '>>=>', '>=<>', '<>==', '><=<', '==<<', '==><
  </pre>
  
  References:
- 1. https://www.preprints.org/manuscript/201905.0090/v1
+ 1. Takefuji, Y.; Yamada, R. A new Deductive Method with Intelligence Using Pseudorandom Number for Solving Coin-Weighing Puzzles: Review of Inductive and Deductive Methods. Preprints 2019, 2019050090 (doi: 10.20944/preprints201905.0090.v1).
+ https://www.preprints.org/manuscript/201905.0090/v1

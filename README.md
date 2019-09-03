@@ -10,7 +10,7 @@ To run prolog.pl, execute the following command:
 <pre>
 $ swipl -s prolog.pl -g go -t halt
 </pre>
-To run 12coins_z3.py, 
+To run 12coins_z3.py, you should install z3 by pip install z3-solver
 <pre>
 $ python 12coins_z3.py
 </pre>
